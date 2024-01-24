@@ -1,1 +1,1 @@
-autoplay carousel 
+Removed
